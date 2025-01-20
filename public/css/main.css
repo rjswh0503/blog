@@ -1,0 +1,10 @@
+.container-btn .btns {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10px;
+  gap: 20px;
+  
+}
+
+
+
